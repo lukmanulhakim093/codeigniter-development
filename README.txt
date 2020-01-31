@@ -3,4 +3,6 @@ we can compare them with native PHP programming language rather than
 application framework like codeigniter
 
 ====================
-CodeIgniter version 3.1.10 
+CodeIgniter version 3.1.10
+
+file ini diedit
